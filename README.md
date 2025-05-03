@@ -1,18 +1,18 @@
 # 🤖 Invoice Processing Agent with Expert Tools
 
-I am an AI-powered **Invoice Processing Agent**, designed to automate the classification and compliance validation of invoices using expert knowledge modules. My architecture is clean, modular, and easy to extend, making me ideal for modern finance workflows.
+AI-powered **Invoice Processing Agent**, designed to automate the classification and compliance validation of invoices using expert knowledge modules. My architecture is clean, modular, and easy to extend, making me ideal for modern finance workflows.
 
 ---
 
 ## 🧠 What I Do
 
-I process raw invoice data and deliver structured, validated results through these key capabilities:
+It process raw invoice data and deliver structured, validated results through these key capabilities:
 
-- ✅ **Extract Invoice Details**: I analyze and parse invoice text to identify vendor, items, amounts, and dates.  
-- 🧾 **Categorize Expenditures**: I consult a financial categorization expert to assign each invoice to one of 20 predefined spending categories.  
-- 🔍 **Validate Against Purchasing Rules**: I consult a compliance expert who checks invoices against the latest purchasing policy loaded from a human-readable file.  
-- 📦 **Return Structured JSON Output**: I output a clean, structured summary with compliance status and issues, ready for databases or downstream systems.  
-- 🗃️ **Store & Summarize**: I can log results and provide a quick summary of actions taken.
+- ✅ **Extract Invoice Details**: It analyze and parse invoice text to identify vendor, items, amounts, and dates.  
+- 🧾 **Categorize Expenditures**: It consult a financial categorization expert to assign each invoice to one of 20 predefined spending categories.  
+- 🔍 **Validate Against Purchasing Rules**: It consult a compliance expert who checks invoices against the latest purchasing policy loaded from a human-readable file.  
+- 📦 **Return Structured JSON Output**: It output a clean, structured summary with compliance status and issues, ready for databases or downstream systems.  
+- 🗃️ **Store & Summarize**: It can log results and provide a quick summary of actions taken.
 
 ---
 
